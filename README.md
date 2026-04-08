@@ -3,7 +3,7 @@ Currently I have made mods to the trident including:
 - 9mm belts
 - eddy coil probe
 - nudge probe
-- canbus set up as per Esoterical voron_canbus [https://github.com/Esoterical/voron_canbus/blob/main/README.md]
+- canbus set up as per Esoterical [voron_canbus](https://github.com/Esoterical/voron_canbus/blob/main/README.md)
 
 
 # Klipper-Backup 💾 
